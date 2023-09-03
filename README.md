@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on getting my first commercial experience as junior full-stack developer.<br>👯 I’m looking to collaborate on projects related to C#, .NET, JavaScript, React, SQL, Python. An international project would be an asset. <br>🤝 I’m looking for help with developing my skills and becoming mid Full-Stack Developer.<br>🌱 I’m currently learning Angular and working on advanced projects.<br>💬 Ask me about C#, OOP, Testing, Developing. I'm always opened to discussion.<br>⚡ Fun fact: In my free time I'm singing and playing guitar.
+🔭 I’m currently working on getting my first commercial experience as junior full-stack developer.<br>👯 I’m looking to collaborate on projects related to C#, .NET, JavaScript, React, SQL, Python. An international project would be an asset. <br>🤝 I will support the team with supportive conversations and creative ideas.<br>🌱 I’m currently learning Angular and working on advanced projects.<br>💬 Ask me about C#, OOP, Testing, Developing. I'm always opened to discussion.<br>⚡ Fun fact: In my free time I'm singing and playing guitar.
 
 
 ## 🌐 Socials:
